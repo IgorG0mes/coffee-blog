@@ -15,3 +15,7 @@ Este projeto foi criado com o objetivo de explicar um pouco mais sobre café, fo
 ## Etapa
 
 O projeto segue em andamento e ao longo do mesmo farei algumas atualizações ao modificar.
+
+## Considerações
+
+Projeto criado em base do conteúdo no https://guiarails.com.br/getting_started.html
